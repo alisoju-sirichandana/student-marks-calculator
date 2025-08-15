@@ -32,6 +32,4 @@ Grade: A
 
 
 
-## 📧 Contact
-- **LinkedIn:** https://www.linkedin.com/in/alisojusirichandana
-- **Email:** alisojusirichandana@gmail.com
+
